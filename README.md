@@ -45,11 +45,6 @@ The workflow is designed to show both **defensive** and **offensive** capabiliti
 ## 1.1 Compile and Load `filemon.ko`  
 This module hooks PageCache and I/O paths and provides real‑time monitoring of:
 
-* page aging  
-* file‑to‑page relations  
-* pagecache accesses  
-* disk I/O behavior  
-
 Compile:
 
 ```
