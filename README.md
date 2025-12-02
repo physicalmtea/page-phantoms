@@ -99,7 +99,7 @@ When both sides are active:
 
 2. **Host Layer 2**  
    *vm-detect*  
-   Computes metadata hashes to detect tampering, phantom pages, or MGLRU‑induced anomalies.
+   Computes metadata hashes to detect tampering.
 
 Together they form a **dual‑layer integrity monitoring system** against zero‑I/O pagecache tampering.
 
